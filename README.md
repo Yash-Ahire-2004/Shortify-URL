@@ -1,5 +1,10 @@
 # Shortify-URL
 
+[![Build Status](https://github.com/Yash-Ahire-2004/Shortify-URL/actions/workflows/maven.yml/badge.svg)](https://github.com/Yash-Ahire-2004/Shortify-URL/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Language](https://img.shields.io/github/languages/top/Yash-Ahire-2004/Shortify-URL)](https://github.com/Yash-Ahire-2004/Shortify-URL)
+[![Repo Size](https://img.shields.io/github/repo-size/Yash-Ahire-2004/Shortify-URL)](https://github.com/Yash-Ahire-2004/Shortify-URL)
+
 A simple URL shortener built with Spring Boot and JPA.
 
 ## ✅ Overview
