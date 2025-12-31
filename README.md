@@ -1,10 +1,10 @@
-# URLShorten
+# Shortify-URL
 
 A simple URL shortener built with Spring Boot and JPA.
 
 ## ✅ Overview
 
-- **Project:** URLShorten
+- **Project:** Shortify-URL
 - **Tech stack:** Java 17, Spring Boot 4, Maven, PostgreSQL, JPA
 - **Default port:** 8081 (configured in `src/main/resources/application.properties`)
 
