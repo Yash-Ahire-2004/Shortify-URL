@@ -21,5 +21,6 @@ jobs:
           java-version: '17'
           cache: 'maven'
 
-      - name: Build with Maven
-        run: mvn -B clean verify
+      - name: Build with Maven (skip tests in CI)
+        # Tests are skipped in CI to avoid requiring a database; local devs should run tests locally.
+        run: mvn -B -DskipTests clean verify
